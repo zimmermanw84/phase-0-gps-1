@@ -12,3 +12,6 @@ This is some text
 
 3 + 4 = 2345
 
+x = 3
+
+y = 3
